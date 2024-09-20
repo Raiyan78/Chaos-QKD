@@ -7,5 +7,15 @@ The emergence of quantum computing has introduced unprecedented security challen
 1. Clone the repository to your local machine.
 2. Install the required Python packages by running `pip install -r requirements.txt`.
 
-
+``
+@misc{rahman2023enhancingsecurityimagetransmission,
+      title={Enhancing the security of image transmission in Quantum era: A Chaos-Assisted QKD Approach using entanglement}, 
+      author={Raiyan Rahman and Md Shawmoon Azad and Mohammed Rakibul Hasan and Syed Emad Uddin Shubha and M. R. C. Mahdy},
+      year={2023},
+      eprint={2311.18471},
+      archivePrefix={arXiv},
+      primaryClass={quant-ph},
+      url={https://arxiv.org/abs/2311.18471}, 
+}
+``
 
