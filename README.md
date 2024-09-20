@@ -5,7 +5,7 @@ The emergence of quantum computing has introduced unprecedented security challen
 
 ### How to run
 1. Clone the repository to your local machine.
-2. Install the required Python packages by running `pip install -r requirements.txt`.
+2. Install the required Python packages by running `$pip install -r requirements.txt`.
 
 ### Cite
 Paste this into your .bib file.
